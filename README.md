@@ -4,7 +4,7 @@ This project uses a combination of techologies to read data from a database and 
 
 ## Tech Stack
 - html, Javascript, Flash API for front end display
-- d3.js to modify/create web content (tables, graphs)
+- d3.js, plotly to modify/create web content (tables, graphs)
 - SQLLite Database, SQLAlchemy to read data from SQLLite
 
 ## API Screenshot of Names
