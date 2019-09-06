@@ -1,6 +1,6 @@
 # Belly Button Bio Diversity
 
-This project uses a combination of tech stack to read data from data from a database and create graphs in a webpage
+This project uses a combination of techologies to read data from a database and create graphs in a webpage
 
 ## Tech Stack
 - html, Javascript, Flash API for front end display
