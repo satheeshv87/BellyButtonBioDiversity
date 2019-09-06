@@ -1,4 +1,4 @@
-# BellyButtonBioDiversity
+# Belly Button Bio Diversity
 
 ![names](https://user-images.githubusercontent.com/22437603/64392499-0a7a6a80-d01b-11e9-8e93-1885343cce43.PNG)
 
