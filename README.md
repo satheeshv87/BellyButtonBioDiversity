@@ -16,8 +16,6 @@ This project uses a combination of tech stack to read data from data from a data
 ## API Screenshot of Sample
 ![samples](https://user-images.githubusercontent.com/22437603/64392504-0cdcc480-d01b-11e9-88d9-b05ac33387fe.PNG)
 
-## Pie Chart
+## Dashboard with Sample data, Pie Chart and Bubble Chart
 ![pie](https://user-images.githubusercontent.com/22437603/64392509-0fd7b500-d01b-11e9-8257-d3ecfff9c2be.PNG)
-
-## Bubble Chart
 ![bubble](https://user-images.githubusercontent.com/22437603/64392512-11a17880-d01b-11e9-96de-dcd206413311.PNG)
